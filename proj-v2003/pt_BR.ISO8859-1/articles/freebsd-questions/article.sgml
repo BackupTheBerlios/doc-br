@@ -1,7 +1,7 @@
 <!DOCTYPE article PUBLIC "-//FreeBSD//DTD DocBook V4.1-Based Extension//EN" [
 <!ENTITY % man PUBLIC "-//FreeBSD//ENTITIES DocBook Manual Page Entities//EN">
 %man;
-<!ENTITY % mailing-lists PUBLIC "-//FreeBSD//ENTITIES DocBook Mailing List Entities//EN">
+<!ENTITY % mailing-lists PUBLIC "-//FreeBSD//ENTITIES DocBook Mailing List Entities//PTBR">
 %mailing-lists;
 <!ENTITY % freebsd PUBLIC "-//FreeBSD//ENTITIES DocBook Miscellaneous FreeBSD Entities//EN">
 %freebsd;
@@ -23,7 +23,7 @@
       </affiliation>
     </author>
 
-    <pubdate> $Id: article.sgml,v 1.1 2003/12/23 23:08:38 ebrandi Exp $ </pubdate>
+    <pubdate> $Id: article.sgml,v 1.2 2004/01/03 16:48:44 ebrandi Exp $ </pubdate>
 
     <legalnotice id="trademarks" role="trademarks">
       &tm-attrib.freebsd;
