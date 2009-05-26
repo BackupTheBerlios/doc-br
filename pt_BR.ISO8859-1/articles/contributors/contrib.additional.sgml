@@ -1,4 +1,4 @@
-<!-- $FreeBSD: doc/en_US.ISO8859-1/articles/contributors/contrib.additional.sgml,v 1.852 2009/05/22 22:06:51 jilles Exp $ -->
+<!-- $FreeBSD: doc/en_US.ISO8859-1/articles/contributors/contrib.additional.sgml,v 1.853 2009/05/26 11:06:01 garga Exp $ -->
 <!--
 	NOTE TO COMMITTERS: Contributors lists are sorted in alphabetical
 	order by first name.
@@ -7386,6 +7386,11 @@
     <listitem>
       <para>Oscar Bonilla
 	<email>obonilla@galileo.edu</email></para>
+    </listitem>
+
+    <listitem>
+      <para>Otac&iacute;lio de Ara&uacute;jo Ramos Neto
+	<email>otacilio.neto@ee.ufcg.edu.br</email></para>
     </listitem>
 
     <listitem>
