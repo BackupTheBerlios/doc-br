@@ -1,4 +1,4 @@
-<!-- $FreeBSD: doc/en_US.ISO8859-1/articles/contributors/contrib.committers.sgml,v 1.262 2009/05/22 22:06:51 jilles Exp $ -->
+<!-- $FreeBSD: doc/en_US.ISO8859-1/articles/contributors/contrib.committers.sgml,v 1.270 2009/06/08 11:23:51 tuexen Exp $ -->
 <!--
 	NOTE TO NEW COMMITTERS: Core and committers lists are sorted in
 	alphabetical order by last name. Please keep in mind that fact while
@@ -703,6 +703,10 @@
     </listitem>
 
     <listitem>
+      <para>&a.rene;</para>
+    </listitem>
+
+    <listitem>
       <para>&a.clement;</para>
     </listitem>
 
@@ -815,6 +819,10 @@
     </listitem>
 
     <listitem>
+      <para>&a.zml;</para>
+    </listitem>
+
+    <listitem>
       <para>&a.nox;</para>
     </listitem>
 
@@ -823,7 +831,7 @@
     </listitem>
 
     <listitem>
-      <para>&a.rene;</para>
+      <para>&a.avl;</para>
     </listitem>
 
     <listitem>
@@ -949,6 +957,10 @@
     <listitem>
       <para>&a.marcel;</para>
     </listitem>
+    
+    <listitem>
+      <para>&a.kmoore;</para>
+    </listitem>
 
     <listitem>
       <para>&a.marck;</para>
@@ -1052,6 +1064,10 @@
 
     <listitem>
       <para>&a.sat;</para>
+    </listitem>
+
+    <listitem>
+      <para>&a.np;</para>
     </listitem>
 
     <listitem>
@@ -1160,6 +1176,10 @@
 
     <listitem>
       <para>&a.mr;</para>
+    </listitem>
+
+    <listitem>
+      <para>&a.bcr;</para>
     </listitem>
 
     <listitem>
@@ -1456,6 +1476,10 @@
 
     <listitem>
       <para>&a.ganbold;</para>
+    </listitem>
+
+    <listitem>
+      <para>&a.tuexen;</para>
     </listitem>
 
     <listitem>

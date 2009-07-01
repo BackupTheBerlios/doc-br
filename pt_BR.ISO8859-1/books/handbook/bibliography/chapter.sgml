@@ -1,7 +1,7 @@
 <!--
      The FreeBSD Documentation Project
 
-     $FreeBSD: doc/en_US.ISO8859-1/books/handbook/bibliography/chapter.sgml,v 1.85 2007/08/11 07:34:19 chinsan Exp $
+     $FreeBSD: doc/en_US.ISO8859-1/books/handbook/bibliography/chapter.sgml,v 1.86 2009/06/22 21:01:32 jkois Exp $
 -->
 
 <appendix id="bibliography">
@@ -621,11 +621,6 @@
 	  <ulink url="http://www.FreeBSD.org/cgi/cvsweb.cgi/src/share/misc/bsd-family-tree"></ulink>
 	   or <ulink type="html" url="file://localhost/usr/share/misc/bsd-family-tree"><filename>/usr/share/misc/bsd-family-tree</filename></ulink>
 	   on a FreeBSD machine.</para>
-      </listitem>
-      
-      <listitem>
-	<para><emphasis>The BSD Release Announcements collection</emphasis>.
-	  1997.  <ulink url="http://www.de.FreeBSD.org/de/ftp/releases/"></ulink></para>
       </listitem>
       
       <listitem>

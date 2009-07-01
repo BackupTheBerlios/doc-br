@@ -1,7 +1,7 @@
 <!--
      The FreeBSD Documentation Project
 
-     $FreeBSD: doc/en_US.ISO8859-1/books/porters-handbook/book.sgml,v 1.1009 2009/05/24 08:51:41 bz Exp $
+     $FreeBSD: doc/en_US.ISO8859-1/books/porters-handbook/book.sgml,v 1.1019 2009/06/26 21:14:18 bz Exp $
 -->
 
 <!DOCTYPE BOOK PUBLIC "-//FreeBSD//DTD DocBook V4.1-Based Extension//EN" [
@@ -12526,6 +12526,19 @@ Reference: &lt;http://www.freebsd.org/ports/portaudit/74a9541d-5d6c-11d8-80e3-00
 		  </row>
 
 		  <row>
+		    <entry>702102</entry>
+		    <entry>May 28, 2009</entry>
+		    <entry>7.2-STABLE after MFC of the
+		      <function>fdopendir</function> function.</entry>
+		  </row>
+
+		  <row>
+		    <entry>702103</entry>
+		    <entry>June 06, 2009</entry>
+		    <entry>7.2-STABLE after MFC of PmcTools.</entry>
+		  </row>
+
+		  <row>
 		    <entry>800000</entry>
 		    <entry>October 11, 2007</entry>
 		    <entry>8.0-CURRENT. Separating wide and single byte
@@ -13112,6 +13125,90 @@ Reference: &lt;http://www.freebsd.org/ports/portaudit/74a9541d-5d6c-11d8-80e3-00
 		    <entry>May 23, 2009</entry>
 		    <entry>8.0-CURRENT after adding UDP control block
 		      support.</entry>
+		  </row>
+		  <row>
+		    <entry>800090</entry>
+		    <entry>May 23, 2009</entry>
+		    <entry>8.0-CURRENT after virtualizing interface
+		      cloning.</entry>
+		  </row>
+		  <row>
+		    <entry>800091</entry>
+		    <entry>May 27, 2009</entry>
+		    <entry>8.0-CURRENT after adding hierarchical jails
+		      and removing global securelevel.</entry>
+		  </row>
+		  <row>
+		    <entry>800092</entry>
+		    <entry>May 29, 2009</entry>
+		    <entry>8.0-CURRENT after chaning
+		      <function>sx_init_flags()</function> KPI.  The
+		      <constant>SX_ADAPTIVESPIN</constant> is retired and
+		      a new <constant>SX_NOADAPTIVE</constant> flag is
+		      introduced in order to handle the reversed logic.</entry>
+		  </row>
+		  <row>
+		    <entry>800093</entry>
+		    <entry>May 29, 2009</entry>
+		    <entry>8.0-CURRENT after adding mnt_xflag to
+		      struct mount.</entry>
+		  </row>
+		  <row>
+		    <entry>800094</entry>
+		    <entry>May 30, 2009</entry>
+		    <entry>8.0-CURRENT after adding
+		      &man.VOP.ACCESSX.9;.</entry>
+		  </row>
+                  <row>
+		    <entry>800095</entry>
+		    <entry>May 30, 2009</entry>
+		    <entry>8.0-CURRENT after changing the polling KPI.
+		      The polling handlers now return the number of packets
+		      processed.  A new
+		      <constant>IFCAP_POLLING_NOCOUNT</constant> is also
+		      introduced to specify that the return value is
+		      not significant and the counting should be
+		      skipped.</entry>
+		  </row>
+		  <row>
+		    <entry>800096</entry>
+		    <entry>June 1, 2009</entry>
+		    <entry>8.0-CURRENT after updating to the new netisr
+		      implementation and after changing the way we
+		      store and access FIBs.</entry>
+		    <!-- 
+			Had been 96 and 97 but were folded because we are
+			running out of numbers.
+		    -->
+		  </row>
+		  <row>
+		    <entry>800097</entry>
+		    <entry>June 8, 2009</entry>
+		    <entry>8.0-CURRENT after the introduction of vnet
+		      destructor hooks and infrastructure.</entry>
+		  </row>
+		  <row>
+		    <entry>800097</entry>
+		    <entry>June 11, 2009</entry>
+		    <entry>8.0-CURRENT after the introduction of netgraph
+		      outbound to inbound path call detection and queuing,
+		      which also changed the layout of struct thread.</entry>
+		  </row>
+		  <row>
+		    <entry>800098</entry>
+		    <entry>June 14, 2009</entry>
+		    <entry>8.0-CURRENT after OpenSSL 0.9.8k import.</entry>
+		  </row>
+		  <row>
+		    <entry>800099</entry>
+		    <entry>June 22, 2009</entry>
+		    <entry>8.0-CURRENT after NGROUPS update and moving
+		      route virtualization into its own VImage module.</entry>
+		  </row>
+		  <row>
+		    <entry>800100</entry>
+		    <entry>June 24, 2009</entry>
+		    <entry>8.0-CURRENT after SYSVIPC ABI change.</entry>
 		  </row>
 		</tbody>
 	      </tgroup>

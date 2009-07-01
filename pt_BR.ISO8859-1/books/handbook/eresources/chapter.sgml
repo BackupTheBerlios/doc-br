@@ -1,7 +1,7 @@
 <!--
      The FreeBSD Documentation Project
 
-     $FreeBSD: doc/en_US.ISO8859-1/books/handbook/eresources/chapter.sgml,v 1.198 2009/04/22 13:32:44 pgj Exp $
+     $FreeBSD: doc/en_US.ISO8859-1/books/handbook/eresources/chapter.sgml,v 1.199 2009/06/08 16:56:16 bcr Exp $
 -->
 
 <appendix id="eresources">
@@ -1192,7 +1192,7 @@
 	    <para>This is a forum about <application>Gecko</application>
 	      applications using &os;.</para>
 
-	    <para>Discussion centers, around Gecko Ports applications,
+	    <para>Discussion centers around Gecko Ports applications,
 	      their installation, their development and their support
 	      within &os;.</para>
 	  </listitem>

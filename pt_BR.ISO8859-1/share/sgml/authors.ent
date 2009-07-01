@@ -13,7 +13,7 @@
                  builds for the other languages, and we will poke fun of you
                  in public.
 
-     $FreeBSD: doc/en_US.ISO8859-1/share/sgml/authors.ent,v 1.479 2009/05/22 21:46:28 jilles Exp $
+     $FreeBSD: doc/en_US.ISO8859-1/share/sgml/authors.ent,v 1.486 2009/06/07 19:14:05 tuexen Exp $
 -->
 
 <!ENTITY a.aaron "Aaron Dalton <email>aaron@FreeBSD.org</email>">
@@ -96,6 +96,8 @@
 
 <!ENTITY a.avg "Andriy Gapon <email>avg@FreeBSD.org</email>">
 
+<!ENTITY a.avl "Alexander Logvinov <email>avl@FreeBSD.org</email>">
+
 <!ENTITY a.awebster "Andrew Webster <email>awebster@pubnix.net</email>">
 
 <!ENTITY a.az "Andrej Zverev <email>az@FreeBSD.org</email>">
@@ -107,6 +109,8 @@
 <!ENTITY a.barner "Simon Barner <email>barner@FreeBSD.org</email>">
 
 <!ENTITY a.bbraun "Rob Braun <email>bbraun@FreeBSD.org</email>">
+
+<!ENTITY a.bcr "Benedict Reuschling <email>bcr@FreeBSD.org</email>">
 
 <!ENTITY a.bde "Bruce Evans <email>bde@FreeBSD.org</email>">
 
@@ -145,6 +149,8 @@
 <!ENTITY a.brix "Henrik Brix Andersen <email>brix@FreeBSD.org</email>">
 
 <!ENTITY a.brooks "Brooks Davis <email>brooks@FreeBSD.org</email>">
+
+<!ENTITY a.brucec "Bruce Cran <email>brucec@FreeBSD.org</email>">
 
 <!ENTITY a.brueffer "Christian Br&uuml;ffer <email>brueffer@FreeBSD.org</email>">
 
@@ -363,6 +369,8 @@
 <!ENTITY a.garga "Renato Botelho <email>garga@FreeBSD.org</email>">
 
 <!ENTITY a.garys "Gary W. Swearingen <email>garys@FreeBSD.org</email>">
+
+<!ENTITY a.gavin "Gavin Atkinson <email>gavin@FreeBSD.org</email>">
 
 <!ENTITY a.gerald "Gerald Pfeifer <email>gerald@FreeBSD.org</email>">
 
@@ -590,6 +598,8 @@
 
 <!ENTITY a.kmacy "Kip Macy <email>kmacy@FreeBSD.org</email>">
 
+<!ENTITY a.kmoore "Kris Moore <email>kmoore@FreeBSD.org</email>">
+
 <!ENTITY a.knu "Akinori MUSHA <email>knu@FreeBSD.org</email>">
 
 <!ENTITY a.koitsu "Jeremy Chadwick <email>koitsu@FreeBSD.org</email>">
@@ -799,6 +809,8 @@
 <!ENTITY a.novel "Roman Bogorodskiy <email>novel@FreeBSD.org</email>">
 
 <!ENTITY a.nox "Juergen Lock <email>nox@FreeBSD.org</email>">
+
+<!ENTITY a.np "Navdeep Parhar <email>np@FreeBSD.org</email>">
 
 <!ENTITY a.nsayer "Nick Sayer <email>nsayer@FreeBSD.org</email>">
 
@@ -1098,6 +1110,8 @@
 
 <!ENTITY a.tshiozak "Takuya SHIOZAKI <email>tshiozak@FreeBSD.org</email>">
 
+<!ENTITY a.tuexen "Michael Tuexen <email>tuexen@FreeBSD.org</email>">
+
 <!ENTITY a.twinterg "Thomas Wintergerst <email>twinterg@FreeBSD.org</email>">
 
 <!ENTITY a.uch "Yasushi UCHIYAMA <email>uch@FreeBSD.org</email>">
@@ -1131,6 +1145,8 @@
 <!ENTITY a.vs "Volker Stolz <email>vs@FreeBSD.org</email>">
 
 <!ENTITY a.vsevolod "Vsevolod Stakhov <email>vsevolod@FreeBSD.org</email>">
+
+<!ENTITY a.vwe "Volker Werth <email>vwe@FreeBSD.org</email>">
 
 <!ENTITY a.weongyo "Weongyo Jeong <email>weongyo@FreeBSD.org</email>">
 
@@ -1173,6 +1189,8 @@
 <!ENTITY a.zarzycki "Dave Zarzycki <email>zarzycki@FreeBSD.org</email>">
 
 <!ENTITY a.zec "Marko Zec <email>zec@FreeBSD.org</email>">
+
+<!ENTITY a.zml "Zachary Loafman <email>zml@FreeBSD.org</email>">
 
 <!ENTITY a.znerd "Ernst de Haan <email>znerd@FreeBSD.org</email>">
 

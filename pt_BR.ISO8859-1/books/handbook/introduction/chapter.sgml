@@ -1,7 +1,7 @@
 <!--
      The FreeBSD Documentation Project
 
-     $FreeBSD: doc/en_US.ISO8859-1/books/handbook/introduction/chapter.sgml,v 1.134 2009/05/04 05:45:22 manolis Exp $
+     $FreeBSD: doc/en_US.ISO8859-1/books/handbook/introduction/chapter.sgml,v 1.135 2009/06/05 06:18:33 delphij Exp $
 -->
 
 <chapter id="introduction">
@@ -457,6 +457,11 @@
 	<indexterm><primary>Netcraft</primary></indexterm>
 	<listitem>
 	  <para><ulink url="http://www.netcraft.com/">Netcraft</ulink></para>
+	</listitem>
+
+	<indexterm><primary>NetEase</primary></indexterm>
+	<listitem>
+	  <para><ulink url="http://www.163.com/">NetEase</ulink></para>
 	</listitem>
 
 	<indexterm><primary>Weathernews</primary></indexterm>

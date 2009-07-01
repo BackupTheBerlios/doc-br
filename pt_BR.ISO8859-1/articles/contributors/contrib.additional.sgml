@@ -1,4 +1,4 @@
-<!-- $FreeBSD: doc/en_US.ISO8859-1/articles/contributors/contrib.additional.sgml,v 1.853 2009/05/26 11:06:01 garga Exp $ -->
+<!-- $FreeBSD: doc/en_US.ISO8859-1/articles/contributors/contrib.additional.sgml,v 1.863 2009/06/26 12:40:28 avl Exp $ -->
 <!--
 	NOTE TO COMMITTERS: Contributors lists are sorted in alphabetical
 	order by first name.
@@ -224,6 +224,11 @@
     </listitem>
 
     <listitem>
+      <para>Aldis Berjoza
+	<email>killasmurf86@gmail.com</email></para>
+    </listitem>
+
+    <listitem>
       <para>Alec Wolman
 	<email>wolman@cs.washington.edu</email></para>
     </listitem>
@@ -381,11 +386,6 @@
     <listitem>
       <para>Alexander Kovalenko
 	<email>never@nevermind.kiev.ua</email></para>
-    </listitem>
-
-    <listitem>
-      <para>Alexander Logvinov
-	<email>user@blg.akavia.ru</email></para>
     </listitem>
 
     <listitem>
@@ -1127,11 +1127,6 @@
     </listitem>
 
     <listitem>
-      <para>Benedict Reuschling
-	<email>benedict@reuschling.org</email></para>
-    </listitem>
-
-    <listitem>
       <para>Benedikt K&ouml;hler
 	<email>benedikt@furukama.de</email></para>
     </listitem>
@@ -1169,6 +1164,11 @@
     <listitem>
       <para>Bernd Rosauer
 	<email>br@schiele-ct.de</email></para>
+    </listitem>
+
+    <listitem>
+      <para>Bernhard Froehlich
+	<email>decke@bluelife.at</email></para>
     </listitem>
 
     <listitem>
@@ -3571,6 +3571,11 @@
     <listitem>
       <para>Heiner Strauss
 	<email>heiner@bilch.com</email></para>
+    </listitem>
+
+    <listitem>
+      <para>Helko Glathe
+	<email>glathe.helko@googlemail.com</email></para>
     </listitem>
 
     <listitem>
@@ -6076,6 +6081,11 @@
     </listitem>
 
     <listitem>
+      <para>Matt Tosto
+	<email>datahead4@gmail.com</email></para>
+    </listitem>
+
+    <listitem>
       <para>Matt White
 	<email>mwhite+@CMU.EDU</email></para>
     </listitem>
@@ -6113,6 +6123,11 @@
     <listitem>
       <para>Matthew George
 	<email>mdg@secureworks.net</email></para>
+    </listitem>
+
+    <listitem>
+      <para>Matthew Gibson
+	<email>mdg583@hotmail.com</email></para>
     </listitem>
 
     <listitem>
@@ -6397,6 +6412,11 @@
     <listitem>
       <para>Michael Sardo
 	<email>jaeger16@yahoo.com</email></para>
+    </listitem>
+
+    <listitem>
+      <para>Michael Scheidell
+	<email>scheidell@secnap.net</email></para>
     </listitem>
 
     <listitem>
@@ -6696,6 +6716,11 @@
     <listitem>
       <para>Mustafa Arif
 	<email>ma499@doc.ic.ac.uk</email></para>
+    </listitem>
+
+    <listitem>
+      <para>Mykola Dzham
+	<email>freebsd@levsha.org.ua</email></para>
     </listitem>
 
     <listitem>
@@ -7271,6 +7296,11 @@
     <listitem>
       <para>Olafur Osvaldsson
 	<email>oli@isnic.is</email></para>
+    </listitem>
+
+    <listitem>
+      <para>Oleg Alexeenkov
+	<email>proler@gmail.com</email></para>
     </listitem>
 
     <listitem>
@@ -8976,6 +9006,11 @@
     </listitem>
 
     <listitem>
+      <para>Steve Franks
+	<email>bahamasfranks@gmail.com</email></para>
+    </listitem>
+
+    <listitem>
       <para>Steve Gerakines
 	<email>steve2@genesis.tiac.net</email></para>
     </listitem>
@@ -9544,6 +9579,11 @@
     </listitem>
 
     <listitem>
+      <para>Tomek Cedro
+	<email>tomek.cedro@gmail.com</email></para>
+    </listitem>
+
+    <listitem>
       <para>Tomohiko Kurahashi
 	<email>kura@melchior.q.t.u-tokyo.ac.jp</email></para>
     </listitem>
@@ -9856,6 +9896,11 @@
     <listitem>
       <para>Virgil Champlin
 	<email>champlin@pa.dec.com</email></para>
+    </listitem>
+
+    <listitem>
+      <para>Vitaly Magerya
+	<email>vmagerya@gmail.com</email></para>
     </listitem>
 
     <listitem>

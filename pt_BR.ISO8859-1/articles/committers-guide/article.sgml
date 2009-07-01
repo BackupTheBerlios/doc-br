@@ -9,7 +9,7 @@
 
     <corpauthor>The &os; Documentation Project</corpauthor>
 
-    <pubdate>$FreeBSD: doc/en_US.ISO8859-1/articles/committers-guide/article.sgml,v 1.283 2009/04/05 18:51:11 rene Exp $</pubdate>
+    <pubdate>$FreeBSD: doc/en_US.ISO8859-1/articles/committers-guide/article.sgml,v 1.284 2009/06/04 09:06:16 linimon Exp $</pubdate>
 
     <copyright>
       <year>1999</year>
@@ -84,7 +84,7 @@
 
 	  <row>
 	    <entry><emphasis>&a.bugmeister;</emphasis></entry>
-	    <entry>&a.ceri; &a.linimon;, and &a.remko;</entry>
+	    <entry>&a.gavin; &a.linimon;, &a.remko;, and &a.vwe .</entry>
 	  </row>
 
 	  <row>
@@ -1349,6 +1349,10 @@ Host pcvs.FreeBSD.org
       at:</para>
 
     <itemizedlist>
+      <listitem>
+	<para><ulink url="&url.articles.pr-guidelines;/index.html">FreeBSD Problem Report Handling Guidelines</ulink></para>
+      </listitem>
+
       <listitem>
 	<para><ulink url="http://www.cs.utah.edu/csinfo/texinfo/gnats/gnats.html"></ulink></para>
       </listitem>
